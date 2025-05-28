@@ -1,0 +1,2 @@
+# Ignore the USRP_Files_Binary folder as it contains large binary files
+USRP_Files_Binary/
